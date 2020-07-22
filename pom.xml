@@ -15,6 +15,8 @@
     <name>mssc-beer-inventory-service</name>
 
     <description>MSSC Beer Inventory Service</description>
+    <dependencies>
 
+    </dependencies>
 
 </project>
